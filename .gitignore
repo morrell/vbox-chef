@@ -1,0 +1,4 @@
+# Exclude .vagrant
+/.vagrant/*
+/.vagrant
+/*.log
